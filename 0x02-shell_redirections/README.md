@@ -1,1 +1,1 @@
- script that duplicates the last line of the file iacta
+no more js
